@@ -21,6 +21,9 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErkinovMoxirbek&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErkinovMoxirbek&show_icons=true&theme=radical" width="47%" />
