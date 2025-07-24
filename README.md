@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Moxirbek – Java Backend Developer</h1>
+<h1 align="center">Hi there 👋, I'm Mokhirbek – Java Backend Developer</h1>
 <h3 align="center">I love building scalable, secure and elegant backend systems</h3>
 
 <p align="center">
