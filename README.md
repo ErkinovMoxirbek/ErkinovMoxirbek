@@ -31,7 +31,7 @@
 
 ### ⏱️ Wakatime Stats
 
-[![My Wakatime Stats](https://wakatime.com/@ErkinovMoxirbek/badge.svg)](https://wakatime.com/@ErkinovMoxirbek)
+[![My Wakatime Stats](https://wakatime.com/badge/user/Erkinov vMoxirbek.svg)](https://wakatime.com/@ErkinovMoxirbek)
 
 <!-- Wakatime ID’ni o‘z profilingizdan oling -->
 
