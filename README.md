@@ -1,34 +1,56 @@
-<!-- Texnologiyalar -->
-<p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/3094/3094453.png" alt="API" width="40" height="40"/>
-  </a>
+<h1 align="center">Hi there 👋, I'm Moxirbek – Java Backend Developer</h1>
+<h3 align="center">I love building scalable, secure and elegant backend systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+JPA;PostgreSQL+%7C+Docker+%7C+Redis;Always+Learning+%E2%9C%85" alt="Typing SVG" />
 </p>
 
-<!-- GitHub Stats -->
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="YOUR NAME's GitHub stats" style="width: 50%;">
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
-  </a>
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErkinovMoxirbek&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErkinovMoxirbek&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+### ⏱️ Wakatime Stats
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID_HERE.svg)](https://wakatime.com/@YOUR_ID_HERE)
+
+<!-- Wakatime ID’ni o‘z profilingizdan oling -->
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://t.me/mohirbek_erkinov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ErkinovMoxirbek"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```text
+💻 I specialize in Java backend development with Spring Boot, JPA, REST APIs  
+🔭 Currently working on several real-world e-commerce projects  
+🌱 Learning Microservices architecture and advanced security practices  
+📌 Passionate about clean code, optimization and automation  
+📍 Based in Uzbekistan, Tashkent
