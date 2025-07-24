@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mokhirbek – Java Backend Developer</h1>
 <h3 align="center">I love building scalable, secure and elegant backend systems</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+JPA;PostgreSQL+%7C+Docker+%7C+Redis;Always+Learning+%E2%9C%85" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧰 Tech Stack
