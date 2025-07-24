@@ -51,4 +51,4 @@
 🔭 Currently working on several real-world e-commerce projects  
 🌱 Learning Microservices architecture and advanced security practices  
 📌 Passionate about clean code, optimization and automation  
-📍 Based in Uzbekistan, Tashkent
+📍 Based in Uzbekistan, Tashkent 
